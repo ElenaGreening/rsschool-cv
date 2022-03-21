@@ -83,8 +83,9 @@ As a pet project I made a web-site for pizza delivery.
 
 ## Education
 
-in 2015 I graduated from St. Petersburg State Institute of Technology.
-in 2021 I graduated from Saint-code Bootcamp course.
+* in 2015 I graduated from St. Petersburg State Institute of Technology.
+
+* in 2021 I graduated from Saint-code Bootcamp course.
 
 ## English
 
