@@ -1,23 +1,28 @@
 # Greening  Elena
 
-![photo](https://avatars.mds.yandex.net/i?id=e67c20f98bdc512c5d3bc20c140f8fac-5719595-images-taas-consumers&n=27&h=480&w=480)
+![photo](https://cdn.pixabay.com/photo/2014/05/27/23/32/matrix-356024__480.jpg)
 
 _**phone:** +7 (911) 893-70-03_
 
-_**email:** elenapetrova23012016@gmail.com_</br>
+_**email:** elenapetrova23012016@gmail.com_
+
 _**discord:** @ElenaGreening_
 
 ## About me
 While studying in bootcamp, on average I spent 10 hours a day learning and doing practical tasks.
 At the moment, I am enjoying studying in RS-school and creating a social network using React.
-As for my  real work experience I participated in creating a functioning web-site in a team.
-Some of my favourite hobbies are writing plans and structuring informational chaos.
-As my active hobby I do ki-aikido.
+My real work experience was creating a functioning web-site with a team.
+Some of my favourite ~~hobbies~~ are writing plans and structuring informational chaos.
 In a team I am able to create positive and productive relationships, regardless of whether they are robots, children or
 grownup programmers.
 
-    ## Skills
-*HTML, CSS, JS, React, Figma, Git, English*
+## Skills
+  * HTML
+  * CSS
+  * JS 
+  * React
+  * Git
+  * Figma
 
 ## Code Example
 
@@ -59,8 +64,8 @@ let sortedByFirstNameZA = tableData.sort(function (obj1, obj2){
 ## Work Experience
 *2022*
 
-With a team we made a web-site for an investment company. Where I created a form for sending customers details,
-using php, and made a  functioning  custom input search.
+Participated in making a web-site for an investment company. Where I created a form for sending customers details
+using php and made a custom input search.
 
 *2021*
 
@@ -79,9 +84,9 @@ As a pet project I made a web-site for pizza delivery.
 ## Education
 
 in 2015 I graduated from St. Petersburg State Institute of Technology.
-2021 I graduated from Saint-code Bootcamp course.
+in 2021 I graduated from Saint-code Bootcamp course.
 
 ## English
 
 On EPAM english test my english level was evaluated as C1.
-I spent many holidays in the UK with my english speaking husband, our family and friends.
+As my english practise I spent many holidays in the UK with my english speaking husband, our family and friends.
